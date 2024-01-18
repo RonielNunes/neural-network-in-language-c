@@ -5,6 +5,9 @@
 
 #### **Funcionamento matemático de uma rede neural:**
 
+![img](assets\struct01.png)
+
+
 - **Entrada (Input):**
 
 Os dados de entrada são representados como um vetor de características.
