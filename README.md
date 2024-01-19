@@ -1,6 +1,7 @@
 
 ### **O que é**
-    Uma rede neural é um modelo computacional inspirado no funcionamento do cérebro humano, projetado para realizar tarefas específicas de aprendizado e reconhecimento de padrões. Ela é composta por unidades chamadas neurônios, organizadas em camadas. As redes neurais podem ser divididas em camadas de entrada, camadas ocultas e camadas de saída.
+
+Uma rede neural é um modelo computacional inspirado no funcionamento do cérebro humano, projetado para realizar tarefas específicas de aprendizado e reconhecimento de padrões. Ela é composta por unidades chamadas neurônios, organizadas em camadas. As redes neurais podem ser divididas em camadas de entrada, camadas ocultas e camadas de saída.
 
 
 #### **Funcionamento matemático de uma rede neural:**
