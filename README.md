@@ -5,7 +5,7 @@
 
 #### **Funcionamento matemático de uma rede neural:**
 
-![img](assets\struct01.png)
+![img](assets/struct01.png)
 
 
 - **Entrada (Input):**
